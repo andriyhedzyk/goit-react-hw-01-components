@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andriyhedzyk/goit-react-hw-01-components/static/css/main.9199ef6b.css",
+    "main.js": "/andriyhedzyk/goit-react-hw-01-components/static/js/main.3625a64d.js",
+    "index.html": "/andriyhedzyk/goit-react-hw-01-components/index.html",
+    "main.9199ef6b.css.map": "/andriyhedzyk/goit-react-hw-01-components/static/css/main.9199ef6b.css.map",
+    "main.3625a64d.js.map": "/andriyhedzyk/goit-react-hw-01-components/static/js/main.3625a64d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9199ef6b.css",
+    "static/js/main.3625a64d.js"
+  ]
+}
