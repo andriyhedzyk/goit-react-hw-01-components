@@ -7,7 +7,7 @@
 та налаштування додаткових можливостей
 [Зверніться до документації](https://facebook.github.io/create-react-app/docs/getting-started).
 
-'Actions' вибери вибери пункт 'General'.
+'Actions' вибери пункт 'General'.
 
 ![GitHub actions settings](./assets/actions-config-step-1.png)
 
